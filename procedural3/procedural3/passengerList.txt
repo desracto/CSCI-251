@@ -1,0 +1,46 @@
+# All comments in the text file are dennoted by # in the beginning
+#
+# This file is assigned as a key-value pair
+# key will include 3 slots, STOP|STATE|DESTINATION
+# STOP = The current stop
+# STATE = (A)dd OR (R)emove
+# DESTINATION = Which stop they are being ADDED to or REMOVED from. This changes depending on state
+#
+AAA L
+AAA L
+AAA L
+AAA M
+AAA M
+AAA M
+AAA M
+AAA M
+
+BAB F
+BAB F
+BAB F
+BRA L
+
+CAC L
+CAC L
+CAC L
+CAC L
+CAC L
+CAC M
+CAC M
+CAC M
+CRB F
+CRA L
+
+DAD M
+DAD M
+DAD M
+DAD M
+DAD M
+DAD M
+
+EAE T
+EAE T
+EAE T
+EAE T
+
+F E

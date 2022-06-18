@@ -1,0 +1,5 @@
+﻿  procedural3.cpp
+C:\Users\user\OneDrive - University of Wollongong\Studies\2022 Spring - 251, 226\CSIT 251 - Advanced Programming\Code Projects\project\procedural3\procedural3\procedural3.cpp(238,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\OneDrive - University of Wollongong\Studies\2022 Spring - 251, 226\CSIT 251 - Advanced Programming\Code Projects\project\procedural3\procedural3\procedural3.cpp(266,36): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\user\OneDrive - University of Wollongong\Studies\2022 Spring - 251, 226\CSIT 251 - Advanced Programming\Code Projects\project\procedural3\procedural3\procedural3.cpp(559,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  procedural3.vcxproj -> C:\Users\user\OneDrive - University of Wollongong\Studies\2022 Spring - 251, 226\CSIT 251 - Advanced Programming\Code Projects\project\procedural3\x64\Debug\procedural3.exe
